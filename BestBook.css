@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-cont {
+  background-image: url("https://tse4.mm.bing.net/th?id=OIP.-5TC75mFT49c3HXvG-q-bQHaFj&pid=Api&P=0&h=180");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.bottomcard1 {
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: pink;
+  border-width: 5px;
+  border-style: dotted;
+  text-align: center;
+  margin: 0 auto; 
+  max-width: 80%; 
+}
+
+.heading1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px; 
+  color: black;
+  font-weight: bold;
+}
+
+.tagline1 {
+  font-family: "Sans Serif", sans-serif;
+  font-size: 18px;
+  color: purple;
+  font-style: italic;
+}
+
+.button1 {
+  background-color: #007bff;
+  border: none; 
+  border-radius: 15px;
+  color: white; 
+  padding: 10px 20px; 
+  cursor: pointer; 
+}
+
+.top-heading {
+  text-align: center;
+  color: white; 
+  position: absolute;
+  top: 20px; 
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.bg1 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  background-image: url("https://wallpapercave.com/wp/wp7110622.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; 
+}
+
+.bestheading1 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.card1 {
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 15px;
+  transition: transform 0.3s; 
+}
+
+.card1:hover {
+  transform: scale(1.05); 
+}
+
+.personhead1 {
+  color: #0f0e46;
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.personpara1 {
+  
+  color: #6c6b70;
+  
+  font-family: "Roboto", sans-serif;
+  font-size: 14px; }
+
+.authorimg {
+  width: 100px; 
+  height: auto; 
+  margin-top: 10px;  
+}
+.detailheader {
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+
+.detailedcard {
+  max-width: 600px;
+  background-color: white;
+  border-radius: 8px;
+  margin: 24px;
+  padding: 20px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.text1 {
+  color: #0f0e46;
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.downheader {
+  color: #6c6b70;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.downdescrip {
+  font-size: 1rem;
+  margin-top: 10px;
+  color: brown;
+  font-weight: bold;
+}
+
+.carousel-image {
+  max-height: 300px; 
+   
+}
+.ord, .ord1, .ord4 {
+  display: block;
+}
+.ord {
+  list-style-type: upper-roman !important;
+  padding-left: 20px; 
+}
+
+#begin, #namePage, #detailedbg, #detailedbg1, #detailedbg2, #detailedbg3 {
+  text-align: center;
+}
+
+.btn {
+  margin: 10px; 
+}
+
+.ord1 {
+  list-style-type: circle !important;
+}
+
+.ord4 {
+  list-style-type: disc;
+}
+.detailedbg, .detailedbg2 {
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.cWdEJrXWcX_QURRSoDBoKQHaE8&pid=Api&P=0&h=180");
+  height: 100vh;
+  background-size: cover;
+  color: black; 
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.detailedbg1, .detailedbg3 {
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.YC4avf0uZX-FZOxQ3gs2vQHaEo&pid=Api&P=0&h=180");
+  height: 100vh;
+  background-size: cover;
+  color: black; 
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+}
